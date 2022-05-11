@@ -1,37 +1,37 @@
 /***** font hébergées par ✿Althea *****/
 @font-face {
     font-family: 'hobbiton_brushhahobbitonbrush';
-    src: url('https://queenofwandsunivers.github.io/nihit/font/hobbitonbrushhand-webfont.svg') format('svg'),
-         url('https://queenofwandsunivers.github.io/nihit/font/hobbitonbrushhand-webfont.woff2') format('woff2'),
-         url('https://queenofwandsunivers.github.io/nihit/font/hobbitonbrushhand-webfont.woff') format('woff'),
-         url('https://queenofwandsunivers.github.io/nihit/font/hobbitonbrushhand.ttf') format('truetype');
+    src: url('https://altheaunivers.github.io/nihit/font/hobbitonbrushhand-webfont.svg') format('svg'),
+         url('https://altheaunivers.github.io/nihit/font/hobbitonbrushhand-webfont.woff2') format('woff2'),
+         url('https://altheaunivers.github.io/nihit/font/hobbitonbrushhand-webfont.woff') format('woff'),
+         url('https://altheaunivers.github.io/nihit/font/hobbitonbrushhand.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'kaushan_scriptregular';
-    src: url('https://queenofwandsunivers.github.io/nihit/font/kaushanscript-regular-webfont.svg') format('svg'),
-         url('https://queenofwandsunivers.github.io/nihit/font/kaushanscript-regular-webfont.woff2') format('woff2'),
-         url('https://queenofwandsunivers.github.io/nihit/font/kaushanscript-regular-webfont.woff') format('woff'),
-         url('https://queenofwandsunivers.github.io/nihit/font/kaushanscript-regular-webfont.ttf') format('truetype');
+     src: url('https://altheaunivers.github.io/nihit/font/kaushanscript-regular-webfont.svg') format('svg'),
+         url('https://altheaunivers.github.io/nihit/font/kaushanscript-regular-webfont.woff2') format('woff2'),
+         url('https://altheaunivers.github.io/nihit/font/kaushanscript-regular-webfont.woff') format('woff'),
+         url('https://altheaunivers.github.io/nihit/font/kaushanscript-regular-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'ralewayregular';
-    src: url('https://queenofwandsunivers.github.io/nihit/font/raleway-regular-webfont.svg') format('svg'),
-         url('https://queenofwandsunivers.github.io/nihit/font/raleway-regular-webfont.woff2') format('woff2'),
-         url('https://queenofwandsunivers.github.io/nihit/font/raleway-regular-webfont.woff') format('woff'),
-         url('https://queenofwandsunivers.github.io/nihit/font/raleway-regular-webfont.ttf') format('truetype');
+    src: url('https://altheaunivers.github.io/nihit/font/raleway-regular-webfont.svg') format('svg'),
+         url('https://altheaunivers.github.io/nihit/font/raleway-regular-webfont.woff2') format('woff2'),
+         url('https://altheaunivers.github.io/nihit/font/raleway-regular-webfont.woff') format('woff'),
+         url('https://altheaunivers.github.io/nihit/font/raleway-regular-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'robotoregular';
-    src: url('https://queenofwandsunivers.github.io/nihit/font/roboto-regular-webfont.svg') format('svg'),
-         url('https://queenofwandsunivers.github.io/nihit/font/roboto-regular-webfont.woff2') format('woff2'),
-         url('https://queenofwandsunivers.github.io/nihit/font/roboto-regular-webfont.woff') format('woff'),
-         url('https://queenofwandsunivers.github.io/nihit/font/roboto-regular-webfont.ttf') format('truetype');
+    src: url('https://altheaunivers.github.io/nihit/font/roboto-regular-webfont.svg') format('svg'),
+         url('https://altheaunivers.github.io/nihit/font/roboto-regular-webfont.woff2') format('woff2'),
+         url('https://altheaunivers.github.io/nihit/font/roboto-regular-webfont.woff') format('woff'),
+         url('https://altheaunivers.github.io/nihit/font/font/roboto-regular-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
